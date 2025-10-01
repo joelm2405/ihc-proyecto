@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="rinon_2d" size="4.000000 5.463259" />
+    <ImageTarget name="intestines_2d" size="4.000000 4.000000" />
+    <ImageTarget name="stomach_2d" size="4.000000 4.000000" />
+    <ImageTarget name="brain_2d" size="4.000000 5.475555" />
+    <ImageTarget name="diafragma_2d" size="4.000000 6.243902" />
+    <ImageTarget name="lungs_2d" size="4.000000 4.000000" />
+    <ImageTarget name="pancreas_2d" size="4.000000 3.803921" />
+  </Tracking>
+</QCARConfig>
