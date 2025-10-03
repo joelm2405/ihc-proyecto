@@ -223,8 +223,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Ri\xF1on"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: ab0a3cbb727254546859587961744939, type: 2}
+  m_sharedMaterial: {fileID: 6561940112821199845, guid: ab0a3cbb727254546859587961744939, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -742,8 +742,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Intestinos
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: ab0a3cbb727254546859587961744939, type: 2}
+  m_sharedMaterial: {fileID: 6561940112821199845, guid: ab0a3cbb727254546859587961744939, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1644,8 +1644,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Pulmon
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: ab0a3cbb727254546859587961744939, type: 2}
+  m_sharedMaterial: {fileID: 6561940112821199845, guid: ab0a3cbb727254546859587961744939, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1756,7 +1756,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0.000015259, y: 631}
-  m_SizeDelta: {x: 491.1928, y: 109.4874}
+  m_SizeDelta: {x: 600, y: 109.4874}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &802448161
 MonoBehaviour:
@@ -1780,8 +1780,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Estomago
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: ab0a3cbb727254546859587961744939, type: 2}
+  m_sharedMaterial: {fileID: 6561940112821199845, guid: ab0a3cbb727254546859587961744939, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1993,8 +1993,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Diafragma
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: ab0a3cbb727254546859587961744939, type: 2}
+  m_sharedMaterial: {fileID: 6561940112821199845, guid: ab0a3cbb727254546859587961744939, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2129,8 +2129,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Cerebro
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: ab0a3cbb727254546859587961744939, type: 2}
+  m_sharedMaterial: {fileID: 6561940112821199845, guid: ab0a3cbb727254546859587961744939, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2340,10 +2340,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: volver
+  m_text: 'Volver
+
+'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 455e44f711bbecb47b809e1b4d13bffd, type: 2}
+  m_sharedMaterial: {fileID: 8354170580529844576, guid: 455e44f711bbecb47b809e1b4d13bffd, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2478,8 +2480,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Pancreas
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: ab0a3cbb727254546859587961744939, type: 2}
+  m_sharedMaterial: {fileID: 6561940112821199845, guid: ab0a3cbb727254546859587961744939, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
